@@ -1,9 +1,9 @@
 {
-    "path" : "H:/Maribel/Paquetes/Github/LipidMSdata2/data",
-    "sortOrder" : [
+    "path": "H:/Maribel/Paquetes/Github/LipidMSdata2",
+    "sortOrder": [
         {
-            "ascending" : true,
-            "columnIndex" : 2
+            "columnIndex": 2,
+            "ascending": true
         }
     ]
 }
