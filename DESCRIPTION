@@ -4,7 +4,7 @@ Title: 'LipidMS 2.0' Data
 Version: 1.0.0
 Author: M Isabel Alcoriza-Balaguer
 Maintainer: M Isabel Alcoriza-Balaguer <maialba@alumni.uv.es>
-Description: Example datasets for 'LipidMS' package.
+Description: Example datasets for 'LipidMS' package (>2.0).
 Depends: R (>= 4.0)
 License: GPL (>= 2)
 LazyData: TRUE
